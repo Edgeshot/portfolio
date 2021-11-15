@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/-Users-waleed-Developer-Web-Dev-Portfolio-my-app/static/css/main.3221b95f.chunk.css",
+    "main.js": "/-Users-waleed-Developer-Web-Dev-Portfolio-my-app/static/js/main.3e65ec47.chunk.js",
+    "main.js.map": "/-Users-waleed-Developer-Web-Dev-Portfolio-my-app/static/js/main.3e65ec47.chunk.js.map",
+    "runtime-main.js": "/-Users-waleed-Developer-Web-Dev-Portfolio-my-app/static/js/runtime-main.a27824e1.js",
+    "runtime-main.js.map": "/-Users-waleed-Developer-Web-Dev-Portfolio-my-app/static/js/runtime-main.a27824e1.js.map",
+    "static/css/2.04cb54d3.chunk.css": "/-Users-waleed-Developer-Web-Dev-Portfolio-my-app/static/css/2.04cb54d3.chunk.css",
+    "static/js/2.38d50697.chunk.js": "/-Users-waleed-Developer-Web-Dev-Portfolio-my-app/static/js/2.38d50697.chunk.js",
+    "static/js/2.38d50697.chunk.js.map": "/-Users-waleed-Developer-Web-Dev-Portfolio-my-app/static/js/2.38d50697.chunk.js.map",
+    "static/js/3.a06aa1df.chunk.js": "/-Users-waleed-Developer-Web-Dev-Portfolio-my-app/static/js/3.a06aa1df.chunk.js",
+    "static/js/3.a06aa1df.chunk.js.map": "/-Users-waleed-Developer-Web-Dev-Portfolio-my-app/static/js/3.a06aa1df.chunk.js.map",
+    "index.html": "/-Users-waleed-Developer-Web-Dev-Portfolio-my-app/index.html",
+    "static/css/2.04cb54d3.chunk.css.map": "/-Users-waleed-Developer-Web-Dev-Portfolio-my-app/static/css/2.04cb54d3.chunk.css.map",
+    "static/css/main.3221b95f.chunk.css.map": "/-Users-waleed-Developer-Web-Dev-Portfolio-my-app/static/css/main.3221b95f.chunk.css.map",
+    "static/js/2.38d50697.chunk.js.LICENSE.txt": "/-Users-waleed-Developer-Web-Dev-Portfolio-my-app/static/js/2.38d50697.chunk.js.LICENSE.txt",
+    "static/media/amazon.5ec7d61e.jpeg": "/-Users-waleed-Developer-Web-Dev-Portfolio-my-app/static/media/amazon.5ec7d61e.jpeg",
+    "static/media/avatar-1.9277ecea.png": "/-Users-waleed-Developer-Web-Dev-Portfolio-my-app/static/media/avatar-1.9277ecea.png",
+    "static/media/avatar-2.75d8f23e.png": "/-Users-waleed-Developer-Web-Dev-Portfolio-my-app/static/media/avatar-2.75d8f23e.png",
+    "static/media/avatar-3.d6c9b46f.png": "/-Users-waleed-Developer-Web-Dev-Portfolio-my-app/static/media/avatar-3.d6c9b46f.png",
+    "static/media/avatar-4.f7fb7ed7.png": "/-Users-waleed-Developer-Web-Dev-Portfolio-my-app/static/media/avatar-4.f7fb7ed7.png",
+    "static/media/city-guide-app.e4843bd0.png": "/-Users-waleed-Developer-Web-Dev-Portfolio-my-app/static/media/city-guide-app.e4843bd0.png",
+    "static/media/myimg.2acef2de.jpeg": "/-Users-waleed-Developer-Web-Dev-Portfolio-my-app/static/media/myimg.2acef2de.jpeg",
+    "static/media/netflix.5a78c4b9.png": "/-Users-waleed-Developer-Web-Dev-Portfolio-my-app/static/media/netflix.5a78c4b9.png",
+    "static/media/portfolio.e4d369bc.png": "/-Users-waleed-Developer-Web-Dev-Portfolio-my-app/static/media/portfolio.e4d369bc.png",
+    "static/media/task-manager.7cdcc29e.png": "/-Users-waleed-Developer-Web-Dev-Portfolio-my-app/static/media/task-manager.7cdcc29e.png",
+    "static/media/App.css": "/-Users-waleed-Developer-Web-Dev-Portfolio-my-app/static/media/testimonials-bg.75612be7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a27824e1.js",
+    "static/css/2.04cb54d3.chunk.css",
+    "static/js/2.38d50697.chunk.js",
+    "static/css/main.3221b95f.chunk.css",
+    "static/js/main.3e65ec47.chunk.js"
+  ]
+}
